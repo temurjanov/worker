@@ -129,7 +129,7 @@ ul.nav-mini li a {
 }
 
 ul.nav-mini.sign-in {
-    margin-top: 1px;
+    margin-top: 7px;
 }
 
 ul.nav-mini.sign-in li:after {
@@ -397,7 +397,7 @@ ul.nav-mini li a {
  */
 
 .navbar-sticky {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(59, 89, 152, 1);
     padding: 10px 0;
 }
 
