@@ -129,7 +129,7 @@ ul.nav-mini li a {
 }
 
 ul.nav-mini.sign-in {
-    margin-top: 7px;
+    margin-top: 6px;
 }
 
 ul.nav-mini.sign-in li:after {
@@ -397,7 +397,7 @@ ul.nav-mini li a {
  */
 
 .navbar-sticky {
-    background-color: rgba(59, 89, 152, 1);
+    background-color: #3B5998;
     padding: 10px 0;
 }
 
@@ -5094,8 +5094,8 @@ ul.footer-menu li {
 }
 
 .bottom-footer {
-    background: #212124;
-    color: rgba(255, 255, 255, 0.5);
+    background: #3B5998;
+    color: rgba(255, 255, 255, 1);
     line-height: 22px;
     font-size: 13px;
     padding-top: 30px;
@@ -5103,7 +5103,7 @@ ul.footer-menu li {
 }
 
 .bottom-footer a {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255,1);
 }
 
 .bottom-footer a:hover {
